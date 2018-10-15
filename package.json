@@ -1,0 +1,23 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "你好世界",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanjinyan/demo01.git"
+  },
+  "author": "rjy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruanjinyan/demo01/issues"
+  },
+  "homepage": "https://github.com/ruanjinyan/demo01#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^1.12.1"
+  }
+}
